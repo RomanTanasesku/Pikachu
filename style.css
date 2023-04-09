@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.card {
+    background-color: #ffdd00;
+    width: 450px;
+    height: 600px;
+    margin: 60px auto;
+    border-radius: 15px;
+    padding: 20px;
+}
+.card-box {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/001/946/569/original/abstract-geometric-hexagons-yellow-background-with-diagonal-striped-lines-free-vector.jpg);
+    background-size: cover;
+    height: 100%;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.box-title {
+}
+.box-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box-header-name {
+}
+.box-header-right {
+    display: flex;
+}
+.header-right-text {
+    color: chocolate;
+}
+.header-right-circle {
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #000;
+}
+.box-img {
+}
+.box-img-photo {
+    background-image: url(https://cdn.igromania.ru/mnt/articles/2/3/d/d/1/0/30780/preview/c7c2af29c6c0bfec_1200xH.jpg);
+    background-size: cover;
+    margin-left: 15px;
+    border: 10px inset #cbb41e;
+    border-radius: 20px;
+}
+.box-img-info {
+    text-align: center;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+}
+.box-header-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 35px;
+    border-bottom: 3px solid #000;
+}
+.circle {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+.header-name {
+}
+.right-text {
+}
+.box-header-3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+    border-bottom: 3px solid #000;
+}
+.circle-2 {
+    width: 35px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #c3a006;
+}
+.circle-3 {
+    margin-right: 30px;
+    width: 35px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-left: 5px;
+}
+.header-name-2 {
+    font-weight: 900;
+    margin-left: 30px;
+}
+.right-text-2 {
+    margin-left: 30px;
+}
+span{
+    font-size: larger;
+}
+.box-header-4 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box-circle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5px;
+}
+.circle_1 {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ff6a00;
+    margin-left: 40px;
+}
+.circle_2 {
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    margin-right: 40px;
+}
+.information{
+    margin-top: 10px;
+    border: 3px inset #cbb41e;
+    font-weight: 600;
+    
+}
+.box-finish {
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title {
+    font-weight: 600;
+}
+.date {
+    font-weight: 900;
+}
+.number {
+}
+.box-finich-circle{
+    width: 10px;
+    height: 10px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-left: 3px;
+}
